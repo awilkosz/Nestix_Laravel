@@ -1,0 +1,14 @@
+/*.carousel-inner
+{
+	background-color: #eee; 
+	opacity: 0.7; 
+	height: 100%;
+}
+
+@media all and (max-width: 1300px)
+{
+	.carousel-inner
+	{
+		height: 91%;
+	}
+}*/
